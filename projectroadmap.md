@@ -1,7 +1,7 @@
 Week 1....
- [x]Log into GitHub and create repository - Done 
- [x]Add Readme page with description of project - Done 
- [ ]Test codes found online and make adjustments
+ - [x]Log into GitHub and create repository - Done 
+ - [x]Add Readme page with description of project - Done 
+ - [ ]Test codes found online and make adjustments
 
 
 Week 2/3.....
